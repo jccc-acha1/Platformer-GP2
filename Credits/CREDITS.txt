@@ -1,0 +1,6 @@
+Game by Aidan Cha
+Toon Shader - https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105
+Pumpkin Placeholder - https://bugfables.fandom.com/wiki/Plumpling
+Nut Pickup - https://dlpng.com/png/5340049
+Gear Clipart - https://flyclipart.com/gear-grey-cog-clip-art-gear-clipart-transparent-805225
+2.5D Rotation, and rigidbody movement help - https://youtu.be/Zla8WlSfOEk
